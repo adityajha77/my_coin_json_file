@@ -1,0 +1,1 @@
+# my_coin_json_file
